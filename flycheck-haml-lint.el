@@ -3,7 +3,7 @@
 ;; Copyright (C) 2024 Jonathan del Strother
 ;; Copyright (C) 2024 Vitaly Slobodin
 
-;; Author: Jonathan del Strother <me@delstrother.com>
+;; Author: Jonathan del Strother <jdelStrother@gmail.com>
 ;; Maintainer: Vitaly Slobodin <vitaliy.slobodin@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.3") (flycheck "32") (haml-mode "3.1.0"))
